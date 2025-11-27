@@ -40,8 +40,10 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 
 <img width="707" height="239" alt="image" src="https://github.com/user-attachments/assets/19325eec-43ea-4ab9-88fb-e7b7bba577ec" />
 
+## Dashboard SRLCompanyAnalysis en Tableau
+**https://public.tableau.com/app/profile/yunuen.cuevas/viz/SRLCompanyAnalysis/CompaaSRL?publish=yes**
 
-  - ## Contenido de archivos anexos (base datos y Tableau)
+## Contenido de archivos anexos (base datos y Tableau)
   - Base de datos 
   - Exploración y análisis de datos mediante Tableau
   - Cuadros y gráficas de análisis mediante Tableau
